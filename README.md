@@ -1,11 +1,13 @@
-### Hi there 👋
-Prasanna Kotyal
-#### AI & ML Engineer
+# Prasanna Kotyal
+## AI & ML Engineer
 ![AI & ML Engineer](https://pbs.twimg.com/profile_banners/1604332719156396032/1671338767/1080x360)
 
 I am Prasanna Kotyal from India, an AI and ML engineer and enthusiast. I love using tech to solve the most simple to sophisticated problems. I also love Psychology and play sports like football and chess. You can check out my website at https://prasannakotyal.github.io/cv/
 
-Skills: Python/Java/ML Libraries and Frameworks
+## Skills: 
+Python
+Java
+ML Libraries and Frameworks
 
 
 
